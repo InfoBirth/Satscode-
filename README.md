@@ -239,6 +239,7 @@ start → Menu
 
 Made with ❤️ by **SatsCode**  
 [GitHub](https://github.com/Codepocketdev) | [Telegram](https://t.me/Hodlcurator) | [X](https://x.com/SatsCode?t=RVLOGjg5kpUfVKczQspozw&s=09)
+[![Join our Discord](https://dcbadge.limes.pink/api/server/aenBvpYBU)](https://discord.gg/aenBvpYBU)
 
 ![LN](https://img.shields.io/badge/Lightning-Network-yellow?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Sats](https://img.shields.io/badge/Sats-Powered-lightgrey?style=for-the-badge)

